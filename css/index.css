@@ -213,6 +213,7 @@ header p{
 	line-height: 1.05rem;
 	color: #333;
 	padding-right: 0.5rem;
+	margin-top: 0.25rem;
 }
 .c3_l p span{
 	font-size: 0.6rem;
@@ -472,7 +473,6 @@ table a{
 	background-size: 7.325rem 9.375rem;
 	float: left;
 	margin-left: 0.975rem;
-	margin-top: 0.5rem;
 	overflow: hidden;
 }
 .m5_c3 ul li:nth-child(1),.m5_c3 ul li:nth-child(3){
@@ -629,7 +629,7 @@ table a{
 }
 .main7 div p:nth-child(7){
 	margin-left: 3.375rem;
-	margin-top: 1.875rem;
+	margin-top: 1.625rem;
 }
 .foot{
 	width: 18.0rem;
