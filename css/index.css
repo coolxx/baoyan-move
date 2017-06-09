@@ -254,6 +254,7 @@ header p{
 	line-height: 1.05rem;
 	color: #333;
 	padding-left: 0.5rem;
+	padding-top: 0.25rem
 }
 .c3_r p span{
 	font-size: 0.6rem;
@@ -472,6 +473,7 @@ table a{
 	float: left;
 	margin-left: 0.975rem;
 	margin-top: 0.5rem;
+	overflow: hidden;
 }
 .m5_c3 ul li:nth-child(1),.m5_c3 ul li:nth-child(3){
 	margin-left: 0;
