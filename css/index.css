@@ -158,7 +158,7 @@ header p{
 	background-size: 0.4rem 0.575rem;
 	padding-left: 0.45rem;
 	color: #fff;
-	font-size: 0.55rem;
+	font-size: 0.6rem;
 	line-height: 1.0rem;
 	border-radius: 0.125rem;
 	margin: 2.875rem auto 0
@@ -337,6 +337,7 @@ table a{
 	color: #fff;
 	background: #ee4b59;
 	margin: 0 auto;
+	font-size: 0.6rem
 }
 .main5{
 	width: 18.0rem;
