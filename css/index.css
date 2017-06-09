@@ -133,7 +133,6 @@ header p{
 }
 .main2 ul{
 	width: 18.0rem;
-	height: 15.5rem;
 	overflow: hidden;
 	margin-top: 0.75rem;
 }
@@ -153,6 +152,7 @@ header p{
 }
 .main2 ul li a{
 	width: 4.6rem;
+	height: 1.0rem;
 	display: block;
 	background: url(../image/main2_jt.png) no-repeat 4.125rem center #bf8e4c;
 	background-size: 0.4rem 0.575rem;
@@ -160,7 +160,6 @@ header p{
 	color: #fff;
 	font-size: 0.55rem;
 	line-height: 1.0rem;
-	padding: 0.2rem 0.1rem 0.2rem 0.5rem;
 	border-radius: 0.125rem;
 	margin: 2.875rem auto 0
 }
